@@ -1,5 +1,3 @@
-Here's the complete README.md file in a single copy-pasteable block:
-
 ```markdown
 # Wallet Funding System Backend
 
