@@ -13,7 +13,7 @@ A comprehensive Node.js/Express backend for managing user wallets with automatic
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/yourusername/wallet-system.git
+git clone https://github.com/Chaos10001/lewisbackend
 cd lewisbackend
 npm install
 ```
